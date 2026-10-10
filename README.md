@@ -1,16 +1,15 @@
 # 🛒 Blinkit Stock Monitor
 
-A Python bot that automatically monitors your Blinkit wishlist items and sends you an **email alert** the moment they come back in stock!
+A Python bot that automatically monitors a watchlist of Blinkit items and sends you an **email alert** the moment they come back in stock!
 
 -----
 
 ## 📌 What it does
 
-- 🔍 Searches Blinkit for your specified wishlist items every 2 minutes
-- 📧 Sends a styled email alert when any item is back in stock
-- 🔗 Email includes a direct link to the product page
-- 🤖 Runs fully automatically in the background
-
+- Searches Blinkit for your specified wishlist items every 2 minutes
+- Sends a styled email alert when any item is back in stock
+- Email includes a direct link to the product page
+  
 -----
 
 ## 🛠️ Tech Stack
