@@ -114,12 +114,3 @@ Use responsibly.
 
 -----
 
-## 👩‍💻 Author
-
-Made by **Joyce** — BCA Student, Osmania University, Hyderabad.
-
------
-
-## 🌟 Show some love
-
-If you found this useful, give it a ⭐ on GitHub!
