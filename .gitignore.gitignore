@@ -1,0 +1,6 @@
+.env
+blinkit_session.json
+debug_search.png
+debug_wishlist.png
+blinkit_monitor.log
+__pycache__/
